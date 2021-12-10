@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-python-multipart
-aiofiles
+python-multipart#アプリ側からサーバーへファイル送信するためのライブラリ
+aiofiles#サーバー側からアプリ側へファイルを送信するためのライブラリ
 pydantic
 sqlalchemy
 aiomysql
