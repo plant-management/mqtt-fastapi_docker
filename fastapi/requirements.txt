@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+pydantic
+sqlalchemy
+aiomysql
+firebase_admin
+pytz #日本時刻取得用
+Pillow #画像処理用

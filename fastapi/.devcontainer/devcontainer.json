@@ -1,0 +1,14 @@
+{
+	"name": "app",
+    "dockerComposeFile": [
+		"../docker-compose.yml"
+	],
+    "service": "app",
+    "workspaceFolder": "/code",
+    "extensions":[
+        "ms-python.python",
+        "donjayamanne.githistory",
+        "oderwat.indent-rainbow",           // インデントをカラフルにする
+        "mosapride.zenkaku"                // 全角スペース
+    ]
+}
